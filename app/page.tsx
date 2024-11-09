@@ -1,6 +1,6 @@
 import Header from "../components/Header";
 import Footer from '../components/Footer'
-import Homep from '../components/home'
+import Homep from '../components/homep'
 export default function Home() {
   return (
     <>

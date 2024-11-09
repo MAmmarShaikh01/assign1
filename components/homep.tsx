@@ -1,7 +1,7 @@
 // pages/index.tsx
 import styles from '../CSS/Home.module.css';
 
-export default function Home() {
+const Homep: React.FC = () => {
   return (
     <main className={styles.mainContent}>
       {/* Hero Section */}
@@ -41,3 +41,4 @@ export default function Home() {
     </main>
   );
 }
+export default Homep;
