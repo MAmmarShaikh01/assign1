@@ -15,9 +15,9 @@ const Footer = () => {
           <Link href="/contact" className={styles.link}>Contact</Link>
         </nav>
         <div className={styles.socials}>
-          <a href="#" className={styles.socialIcon}>Twitter</a>
-          <a href="#" className={styles.socialIcon}>LinkedIn</a>
-          <a href="#" className={styles.socialIcon}>GitHub</a>
+          <a href="https://vercel.com/ammars-projects-1e3ab620" className={styles.socialIcon}>Vercel</a>
+          <a href="https://www.linkedin.com/" className={styles.socialIcon}>LinkedIn</a>
+          <a href="https://github.com/MAmmarShaikh01/" className={styles.socialIcon}>GitHub</a>
         </div>
         <p className={styles.copyright}>© {new Date().getFullYear()} My Portfolio. All rights reserved.</p>
       </div>
