@@ -1,13 +1,9 @@
-// pages/contact.tsx
-import Head from 'next/head';
+
 import styles from '../CSS/Contact.module.css';
 
 export default function Contact() {
   return (
     <>
-      <Head>
-        <title>Contact Us</title>
-      </Head>
       <main className={styles.main}>
         <section className={styles.contactSection}>
           <h1 className={styles.contactTitle}>Get in Touch</h1>
