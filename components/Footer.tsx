@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className={styles.footer}>
       <div className={styles.container}>
         <h1 className={styles.logo}>
-          <Link href="/">My Portfolio</Link>
+          <Link href="/">My FancyWebsite</Link>
         </h1>
         <nav className={styles.links}>
           <Link href="/" className={styles.link}>Home</Link>
