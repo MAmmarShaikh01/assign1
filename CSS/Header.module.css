@@ -46,7 +46,7 @@
     color: #2575fc;
   }
   
-  @media (min-width: 768px) {
+  @media (max-width: 768px) {
     .container {
       padding: 0 1rem;
     }
