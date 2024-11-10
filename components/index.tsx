@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../CSS/Home.module.css'
+import styles from '../CSS/Homep.module.css'
 import Link from 'next/link';
 
 const MainContent= () => {
