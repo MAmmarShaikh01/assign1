@@ -21,7 +21,7 @@
   .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #ff7e5f;
+    color: #2575fc;
   }
   
   .logo a {
@@ -43,7 +43,7 @@
   }
   
   .link:hover {
-    color: #ff7e5f;
+    color: #2575fc;
   }
   
   /* Social Icons */
@@ -59,7 +59,7 @@
   }
   
   .socialIcon:hover {
-    color: #ff7e5f;
+    color: #2575fc;
   }
   
   /* Copyright Text */
